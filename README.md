@@ -1,9 +1,9 @@
 # visualg.md
 Handbook of Pseudo Code in Portuguese
+# > CodeNymphs
+  > Nymphs Made of Code. Programming can be more soft and gracefull
 
-Code Nymphs - more soft and gracefull
-
-by: @juniobash /
+by: @juniobash/
 
 ## Guia de Sobrevivencia do Programador
 ### Básico
