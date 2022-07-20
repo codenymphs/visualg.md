@@ -2,12 +2,11 @@
 > Pseudocode Survival Guide &nbsp;  
 > Bootcamp `Visualg 2.5`
 
-`playground.sh`
+`playground.alg`
+`cat playground.alg`
 ~~~ bash
-# criando estrurura basica para programação
-
 Algoritmo "Meu Primeiro Programa"
-
+  // Estrurtura Basica de Um Programa em Visualg
   Incio
 
 FimalAlgoritmo
