@@ -7,7 +7,7 @@ Algoritmo "Meu Primeiro Programa"
   // Estrurtura Basica de Um Programa em Visualg
   Inicio
 
-FimalAlgoritmo
+FimAlgoritmo
 
 ~~~
 
