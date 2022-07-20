@@ -1,6 +1,5 @@
 # Handbook of Pseudo Code in Portuguese | @juniobash
-> Pseudocode Survival Guide &nbsp;  
-> Playground `Visualg 2.5`  
+> _**Playground Visualg 2.5**_
 > `cat playground.alg`  
 ~~~ bash
 Algoritmo "Meu Primeiro Programa"
