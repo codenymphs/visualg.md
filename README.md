@@ -1,4 +1,4 @@
-# Handbook of Pseudo Code in Portuguese | @juniobash
+# Handbook of Pseudo Code in Portuguese
 
 ### Playground: Programa Base 
 
@@ -16,7 +16,7 @@ FimAlgoritmo
 3. [Avancado](#)
 4. [Mestre](#)
 
-# Projects for CLI Apps | @juniobash
+# Projects for `CLI Apps`
 
 |#|Software Architecture of Pseudo Code in Portuguese|
 | :---|:---|
