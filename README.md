@@ -1,5 +1,5 @@
 # Handbook of Visualg
-[**manual.md**](survival-guide/)
+[**Guia de Programação Visualg.md**](survival-guide/)
 
 > Programa Base do Visualg 2.5  
 `cat playground.alg` 
