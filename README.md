@@ -2,14 +2,11 @@
 > Pseudocode Survival Guide &nbsp;  
 > Bootcamp `Visualg 2.5`
 
-1. Basico
-    - Manual     
-2. Intermediario
-    - Manual     
-3. Avancado
-    - Manual    
-4. Mestre
-    - Manual 
+1. [Basico](#)
+2. [Intermediario](#)
+3. [Avancado](#)
+4. [Mestre](#)
+
 # Projects for `CLI` Apps | @juniobash
 
 |#|Software Architecture of Pseudo Code in Portuguese|
