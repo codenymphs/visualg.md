@@ -1,6 +1,6 @@
 # Handbook of Pseudo Code in Portuguese
 
-> Programa Base do Visualg 2.5
+> Programa Base do Visualg 2.5  
 `cat playground.alg` 
 ~~~ bash
 Algoritmo "Estrutura Básica do Programa"
