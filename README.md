@@ -18,7 +18,7 @@
     - Manual, 
     - Desafios
 
-## Software Architecture of Pseudo Code in Portuguese
+# Software Architecture of Pseudo Code in Portuguese | @juniobash
 > `Apps CLI`
 
 1. Projeto Basico
