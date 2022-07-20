@@ -8,7 +8,7 @@ Inicio
 FimAlgoritmo
 
 ~~~
-### [Guia de Programação.md](survival-guide/)
+[**Guia de Programação.md**](survival-guide/)
 
 # Projects of Programs
 > CLI Apps
