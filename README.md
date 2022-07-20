@@ -1,6 +1,6 @@
 # Handbook of Pseudo Code in Portuguese | @juniobash
-> Survival Guide with Pseudo Code &nbsp;  
-> BootCamp `Visualg 2.5`
+> Pseudocode Survival Guide &nbsp;  
+> Bootcamp `Visualg 2.5`
 
 1. Basico
     - Manual 
@@ -22,10 +22,16 @@
 > `Apps CLI`
 
 1. Projeto Basico
-    - [ ] 
+    - [ ] [Meu Peso Ideal](#)
+    - [ ] [Meu Curso Ideal](#)
+
 2. Projeto Intermediario
-    - [ ] 
+    - [ ] [Banco Hirão](#)
 3. Projeto Avançado 
-    - [ ] 
+    - [ ] [Companhia Aerea Grifos](#)
+    - [ ] [Cinema Utopia](#)
 4. Projeto Gran Mestre
-    - [ ] 
+    - [ ] [Restaurante Subway](#) - filas de pedidos
+    - [ ] [Sistema de Contas a Pagar](#) - pilha de contas
+    - [ ] [Sistema de Gestao de Clientes](#) - lista de clientes, ordenar com categorias e prioridades
+    - [ ] [Sistema de Suporte](#) - lista de tarefas com prioridades (low, normal, high)
