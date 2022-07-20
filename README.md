@@ -1,12 +1,6 @@
-# VISUALG.MD
-Handbook of Pseudo Code in Portuguese
-# > CodeNymphs
-  > Nymphs Made of Code. Programming can be more soft and graceful, by: @juniobash
-
-> Guia de Sobrevivencia do Programador
-# Survival with Pseudo Code
+# Handbook of Pseudo Code in Portuguese | @juniobash
+> Survival Guide with Pseudo Code &nbsp;
 > BootCamp Visualg 2.5
-> Portuguese version of the Pseudo Code
 
 1. Basico
     manual, projetos e desafios
