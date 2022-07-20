@@ -1,5 +1,4 @@
-# Handbook of Pseudo Code in Portuguese
-
+# Handbook of Visualg
 > Programa Base do Visualg 2.5  
 `cat playground.alg` 
 ~~~ bash
