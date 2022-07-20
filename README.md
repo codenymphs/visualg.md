@@ -1,6 +1,7 @@
 # Handbook of Pseudo Code in Portuguese | @juniobash
 > _**Playground Visualg 2.5**_  
 > `cat playground.alg`  
+
 ~~~ bash
 Algoritmo "Meu Primeiro Programa"
   // Estrurtura Basica de Um Programa em Visualg
