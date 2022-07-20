@@ -2,6 +2,7 @@
 > Pseudocode Survival Guide &nbsp;  
 > Bootcamp `Visualg 2.5`
 
+`ls *.alg`  
 `playground.alg`  
 `cat playground.alg`
 ~~~ bash
