@@ -5,7 +5,7 @@
 ~~~ bash
 Algoritmo "Meu Primeiro Programa"
   // Estrurtura Basica de Um Programa em Visualg
-  Incio
+  Inicio
 
 FimalAlgoritmo
 
