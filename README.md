@@ -3,8 +3,8 @@
 > `cat playground.alg`  
 
 ~~~ bash
-Algoritmo "Meu Primeiro Programa"
-  // Estrurtura Basica de Um Programa em Visualg
+Algoritmo "Estrutura Básica do Programa"
+ 
   Inicio
 
 FimAlgoritmo
