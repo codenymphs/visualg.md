@@ -2,6 +2,18 @@
 > Pseudocode Survival Guide &nbsp;  
 > Bootcamp `Visualg 2.5`
 
+`playground.sh`
+~~~ bash
+# criando estrurura basica para programação
+
+Algoritmo "Meu Primeiro Programa"
+
+  Incio
+
+FimalAlgoritmo
+
+~~~
+
 1. [Basico](#)
 2. [Intermediario](#)
 3. [Avancado](#)
