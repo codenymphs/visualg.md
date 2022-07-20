@@ -4,8 +4,7 @@
 
 ~~~ bash
 Algoritmo "Estrutura Básica do Programa"
- 
-  Inicio
+Inicio
 
 FimAlgoritmo
 
