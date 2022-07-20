@@ -31,3 +31,19 @@
 |  4  | [Sistema de Contas a Pagar](#) - pilha de contas|
 |  4  | [Sistema de Gestao de Clientes](#) - lista de clientes, ordenar com categorias e prioridades|
 |  4  | [Sistema de Suporte](#) - lista de tarefas com prioridades (low, normal, high)|
+
+# Solve Challenges
+
+|#|Program Features and Solve Bugs|
+|  1  | - |
+|  1  | - |
+|  1  | - |
+|  1  | - |
+|  2  | - |
+|  2  | - |
+|  2  | - |
+|  3  | - |
+|  3  | - |
+|  4  | - |
+|  4  | - |
+|  4  | - |
