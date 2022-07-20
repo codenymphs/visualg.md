@@ -3,10 +3,21 @@
 > BootCamp Visualg 2.5
 
 1. Basico
-    manual, projetos e desafios
+    - Manual 
+    - Projetos
+    - Desafios
+    
 2. Intermediario
-    manual, projetos e desafios
+    - Manual 
+    - Projetos
+    - Desafios
+    
 3. Avancado
-    manual, projetos e desafios
+    - Manual
+    - Projetos
+    - Desafios
+    
 4. Mestre
-    manual, projetos e desafios
+    - Manual, 
+    - Projetos
+    - Desafios
