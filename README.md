@@ -10,10 +10,10 @@ FimAlgoritmo
 
 ~~~
 
-1. [Basico](#)
-2. [Intermediario](#)
-3. [Avancado](#)
-4. [Mestre](#)
+1. [Guia Basico](#)
+2. [Guia Intermediario](#)
+3. [Guia Avancado](#)
+4. [Guia Gran Developer](#)
 
 # Projects of Programs
 > CLI Apps
