@@ -17,9 +17,9 @@
 4. Mestre
     - Manual, 
     - Desafios
-
-# Software Architecture of Pseudo Code in Portuguese | @juniobash
-> `Apps CLI`
+    - 
+# Projects for `CLI` Apps | @juniobash
+> Software Architecture of Pseudo Code in Portuguese | @juniobash
 
 1. Projeto Basico
     - [ ] [Meu Peso Ideal](#)
