@@ -16,7 +16,8 @@ FimAlgoritmo
 3. [Avancado](#)
 4. [Mestre](#)
 
-# Projects for `CLI Apps`
+# Projects of Programs
+> CLI Apps
 
 |#|Software Architecture of Pseudo Code in Portuguese|
 | :---|:---|
