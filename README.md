@@ -35,6 +35,7 @@
 # Solve Challenges
 
 |#|Program Features and Solve Bugs|
+| :---|:---|
 |  1  | - |
 |  1  | - |
 |  1  | - |
