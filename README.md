@@ -24,7 +24,7 @@
 # Solve Challenges
 > Program Features and Solve Bugs
 
-|#|Funcionalidade Para Desenvolver| Codigo |
+|#|Funcionalidade | Codigo |
 | :---|:---| :---|
 |  1  | - | - |
 |  1  | - | - |
