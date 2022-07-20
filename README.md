@@ -3,21 +3,13 @@
 > Bootcamp `Visualg 2.5`
 
 1. Basico
-    - Manual 
-    - Desafios
-    
+    - Manual     
 2. Intermediario
-    - Manual 
-    - Desafios
-    
+    - Manual     
 3. Avancado
-    - Manual
-    - Desafios
-    
+    - Manual    
 4. Mestre
-    - Manual, 
-    - Desafios
-    - 
+    - Manual 
 # Projects for `CLI` Apps | @juniobash
 
 |#|Software Architecture of Pseudo Code in Portuguese|
