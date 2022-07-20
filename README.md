@@ -16,7 +16,7 @@ FimalAlgoritmo
 3. [Avancado](#)
 4. [Mestre](#)
 
-# Projects for `CLI` Apps | @juniobash
+# Projects for CLI Apps | @juniobash
 
 |#|Software Architecture of Pseudo Code in Portuguese|
 | :---|:---|
