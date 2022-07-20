@@ -2,7 +2,7 @@
 > Pseudocode Survival Guide &nbsp;  
 > Bootcamp `Visualg 2.5`
 
-`playground.alg`
+`playground.alg`  
 `cat playground.alg`
 ~~~ bash
 Algoritmo "Meu Primeiro Programa"
