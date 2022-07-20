@@ -1,6 +1,7 @@
 # Handbook of Pseudo Code in Portuguese | @juniobash
-> _**Playground Visualg 2.5**_  
-> `cat playground.alg`  
+_**Playground Visualg 2.5**_  
+
+`cat playground.alg`  
 
 ~~~ bash
 Algoritmo "Estrutura Básica do Programa"
