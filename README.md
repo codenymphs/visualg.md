@@ -1,4 +1,3 @@
-# Handbook of Visualg
 > Programa Base do Visualg 2.5  
 `cat playground.alg` 
 ~~~ bash
@@ -8,7 +7,9 @@ Inicio
 FimAlgoritmo
 
 ~~~
-[**Guia de Programação.md**](survival-guide/)
+
+# Handbook of Visualg
+[**manual.md**](survival-guide/)
 
 # Projects of Programs
 > CLI Apps
