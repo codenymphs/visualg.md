@@ -1,6 +1,5 @@
 # Handbook of Pseudo Code in Portuguese | @juniobash
-> Survival Guide with Pseudo Code &nbsp;
-> 
+> Survival Guide with Pseudo Code &nbsp;  
 > BootCamp Visualg 2.5
 
 1. Basico
