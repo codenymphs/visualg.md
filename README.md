@@ -2,9 +2,8 @@
 > Pseudocode Survival Guide &nbsp;  
 > Bootcamp `Visualg 2.5`
 
-juniobash: `ls *.alg`  
-juniobash: `playground.alg`  
-juniobash: `cat playground.alg`
+
+`cat playground.alg`
 ~~~ bash
 Algoritmo "Meu Primeiro Programa"
   // Estrurtura Basica de Um Programa em Visualg
