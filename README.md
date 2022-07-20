@@ -1,17 +1,15 @@
 # Handbook of Pseudo Code in Portuguese | @juniobash
 > Pseudocode Survival Guide &nbsp;  
-> Bootcamp `Visualg 2.5`
-
-
-`cat playground.alg`
-~~~ bash
+> Playground `Visualg 2.5`  
+> `cat playground.alg`
+> ~~~ bash
 Algoritmo "Meu Primeiro Programa"
   // Estrurtura Basica de Um Programa em Visualg
   Incio
 
 FimalAlgoritmo
 
-~~~
+> ~~~
 
 1. [Basico](#)
 2. [Intermediario](#)
