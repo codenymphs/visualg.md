@@ -19,7 +19,7 @@
     - Desafios
     - 
 # Projects for `CLI` Apps | @juniobash
-> Software Architecture of Pseudo Code in Portuguese | @juniobash
+> Software Architecture of Pseudo Code in Portuguese
 
 1. Projeto Basico
     - [ ] [Meu Peso Ideal](#)
