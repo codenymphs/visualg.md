@@ -9,7 +9,7 @@ Inicio
 FimAlgoritmo
 
 ~~~
-0. [Preparando o Ambiente de Programação](#)
+0. [Preparando o Ambiente](#)
 1. [Guia Basico](#)
 2. [Guia Intermediario](#)
 3. [Guia Avancado](#)
