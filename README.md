@@ -2,7 +2,9 @@
 [**Guia de Programação Visualg.md**](guide-survival/)
 
 > Programa Base do Visualg 2.5  
-`cat playground.alg` 
+
+`cat playground.alg`  
+
 ~~~ bash
 Algoritmo "Estrutura Básica do Programa"
 Inicio
