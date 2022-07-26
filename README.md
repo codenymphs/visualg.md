@@ -13,10 +13,10 @@ FimAlgoritmo
 
 ~~~
 
-# Projects of Programs
-> CLI Apps
+# Programs in Command Line Interfaces
+> projects of CLI Apps
  
-|#|Software Architecture of Pseudo Code in Portuguese|
+|#|Software Architecture Design|
 | :---|:---|
 |  1  | [Meu Peso Ideal](#)|
 |  1  | [Meu Curso Ideal](#)|
