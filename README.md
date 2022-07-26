@@ -15,7 +15,7 @@ FimAlgoritmo
 | 1 | Basico |
 | 2 | Intermediario |
 | 3 | Avançado |
-| 4 | Master |
+| 4 | Mestre |
 
 # Programs in Command Line Interfaces
 > projects of CLI Apps
