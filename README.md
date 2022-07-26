@@ -1,6 +1,4 @@
 # Handbook of Visualg
-[**Guia de Programação Visualg.md**](guide-survival/)
-
 > Programa Base do Visualg 2.5  
 
 `cat playground.alg`  
@@ -12,6 +10,13 @@ Inicio
 FimAlgoritmo
 
 ~~~
+
+| # | Guia Basico de Programação Visualg|
+| :--- | :--- |
+| 1 | Basico |
+| 2 | Intermediario |
+| 3 | Avançado |
+| 4 | Master |
 
 # Programs in Command Line Interfaces
 > projects of CLI Apps
