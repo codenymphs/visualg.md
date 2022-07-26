@@ -1,7 +1,7 @@
 # Handbook of Visualg
 > Criando um playground em Visualg 2.5 
 
-`cat playround.alg`  
+`cat playground.alg`  
 ~~~ bash
 Algoritmo "Estrutura Básica do Programa"
 Inicio
