@@ -15,7 +15,7 @@ FimAlgoritmo
 
 # Projects of Programs
 > CLI Apps
-
+ 
 |#|Software Architecture of Pseudo Code in Portuguese|
 | :---|:---|
 |  1  | [Meu Peso Ideal](#)|
@@ -28,7 +28,7 @@ FimAlgoritmo
 |  4  | [Sistema de Gestao de Clientes](#) - lista de clientes, ordenar com categorias e prioridades|
 |  4  | [Sistema de Suporte](#) - lista de tarefas com prioridades (low, normal, high)|
 
-# Solve Challenges
+# Challenges to Solve
 > Program Features and Solve Bugs
 
 |#|Funcionalidade | Codigo |
