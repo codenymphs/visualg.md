@@ -37,5 +37,6 @@
 # Master
 | # | | |
 |:---|:---|:---|
-|**Master**| 4 | - |
-|      | 4.1 | - |
+|**Master**| 4 | Logica Digital |
+|      | 4.1 | teoria de conjuntos e algebra booleana |
+|      | 4.1 | analise de problemas de algorirmos com arvores de decisao. Onça bode capim|
