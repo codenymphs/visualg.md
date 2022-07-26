@@ -1,5 +1,5 @@
 # Handbook of Visualg
-Criando Playground in Visualg 2.5 
+Criando um playground em Visualg 2.5 
 > `cat playround.alg`  
 
 ~~~ bash
