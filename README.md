@@ -1,5 +1,5 @@
 # Handbook of Visualg
-> `echo "Criando Playground in Visualg 2.5`   
+Criando Playground in Visualg 2.5 
 > `cat playround.alg`  
 
 ~~~ bash
