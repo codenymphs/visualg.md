@@ -13,6 +13,8 @@
 |      | 1.6 | Operadores Relacionais|
 |      | 1.7 | Estruturas de Seleção: se, caso |
 |      | 1.8 | Estruturas de Repetição: repita, enquanto, para; interrompa |
+### LISTA DE DESAFIOS
+> Objetivo da Funcionalidade + bug e melhorias
 
 # Intermediary
 | # | | |
