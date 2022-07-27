@@ -10,12 +10,7 @@ FimAlgoritmo
 
 ~~~
 
-| # | Guia Basico de Programação Visualg|
-| :--- | :--- |
-| 1 | Basico |
-| 2 | Intermediario |
-| 3 | Avançado |
-| 4 | Mestre |
+| # | Guia Basico de Programação Visualg| [View](handbook-of-visualg/README.md)|
 
 # Programs in Command Line Interfaces
 > projects of CLI Apps
