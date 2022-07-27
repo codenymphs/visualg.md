@@ -1,5 +1,5 @@
-> # Pseudocode Survival Guide
-> _BootCamp visualg 2.5_
+#  :card_index: Pseudocode Survival Guide
+> _BootCamp visualg 2.5_   
 > Agora vamos utilizar o interpretador visualg.  
 > abra o aplicativo `visualg2.5.exe`
 
@@ -7,7 +7,7 @@
 * Utilize o emulador wine no linux ou macOS
 
 # Basic
-| # | | Link |
+| # | Capitulo | Link |
 |:---|:---|:---|
 | 1   | Estrutura Base | [View](#) |
 | 1.1 | Tipos de Dados Simples | [View](#) |
@@ -17,32 +17,40 @@
 | 1.5 | Operadores Logicos | [View](#) |
 | 1.6 | Operadores Relacionais| [View](#) |
 | 1.7 | Estruturas de Seleção: se, caso | [View](#) |
-| 1.8 | Estruturas de Repetição: repita, enquanto, para; interrompa | [View](#) |
-
-### LISTA DE DESAFIOS
-> Objetivo da Funcionalidade + bug e melhorias
+> **LISTA DE DESAFIOS**
+> * Funcionalidade + bug
 
 # Intermediary
-| # | | Link |
+| # | Capitulo | Link |
 |:---|:---|:---|
-| 2 | Vetor e Matriz | [View](#) |
-| 2.1 | entrada de dados com arquivo txt | [View](#) |
-| 2.2 | procedimento | [View](#) |
-| 2.3 | função | [View](#) |
-| 2.4 | recursividade | [View](#) |
-| 2.5 | debug e performace de algoritmos | [View](#) |
+| 2. | Estruturas de Repetição: repita, enquanto, para; interrompa | [View](#) |
+| 2.1 | Vetor e Matriz | [View](#) |
+| 2.2 | entrada de dados com arquivo txt | [View](#) |
+| 2.3 | procedimento | [View](#) |
+> **LISTA DE DESAFIOS**
+> * Funcionalidade + bug
+
 
 # Advanced
-| # | | Link |
+| # | Capitulo | Link |
 |:---|:---|:---|
-| 3 | ordenação e busca | [View](#) |
-| 3.1 | pilha | [View](#) |
-| 3.1 | fila | [View](#) |
-| 3.1 | lista | [View](#) |
+| 2.5 | função | [View](#) |
+| 2.6 | recursividade | [View](#) |
+| 2.7 | debug e performace de algoritmos | [View](#) |
+> **LISTA DE DESAFIOS**
+> * Funcionalidade + bug
+
 
 # Master
-| # | | Link |
+| # | Capitulo | Link |
 |:---|:---|:---|
-| 4 | Logica Digital | [View](#) |
-| 4.1 | teoria de conjuntos e algebra booleana | [View](#) |
-| 4.1 | analise de problemas de algorirmos com arvores de decisao. Onça bode capim| [View](#) |
+| 4   | Ordenação e Busca em Vetores e Matrizes| [View](#) |
+| 4.1 | pilha | [View](#) |
+| 4.2 | fila | [View](#) |
+| 4.3 | lista | [View](#) |
+> **LISTA DE DESAFIOS**
+> * Funcionalidade + bug
+
+* Logica Digital
+* Teoria de conjuntos e algebra booleana
+* Analise de problemas de algorirmos com arvores de decisao. Onça bode capim
