@@ -1,10 +1,10 @@
 > # Pseudocode Survival Guide
 > _BootCamp visualg 2.5_
-> Agora vamos utilizar o interpretador visualg, que esta na pasta deste repositorio.   
-`visualg2.5.exe`
+> Agora vamos utilizar o interpretador visualg.  
+> abra o aplicativo `visualg2.5.exe`
 
-* utilize um computador com windows 7 ou maior
-* utilize o emulador wine no linux ou macOS
+* Utilize um computador com windows 7 ou maior
+* Utilize o emulador wine no linux ou macOS
 
 # Basic
 | # | | |
