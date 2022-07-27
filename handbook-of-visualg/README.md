@@ -48,6 +48,7 @@
 | 4.1 | pilha | [View](#) |
 | 4.2 | fila | [View](#) |
 | 4.3 | lista | [View](#) |
+| 4.4 | arvore | [View](#) |
 > **LISTA DE DESAFIOS**
 > * Funcionalidade + bug
 
