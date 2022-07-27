@@ -8,12 +8,12 @@
 | # | Capitulo | Link |
 |:---|:---|:---|
 | 1   | Estrutura Base | [View](1.basic.md/1.md) |
-| 1.1 | Tipos de Dados Simples | [View](1.basic.md/2.md) |
-| 1.2 | Entrada de Dados, atribuicao e teclado| [View](1.basic.md/3.md) |
-| 1.3 | Saida de Dados, monitor  | [View](1.basic.md/4.md) |
-| 1.4 | Operadores Aritmeticos | [View](1.basic.md/5.md) |
-| 1.5 | Operadores Logicos | [View](1.basic.md/6.md) |
-| 1.6 | Operadores Relacionais| [View](1.basic.md/7.md) |
+| 1.1 | Tipos de Dados Simples | [View](1.basic.md/1.1.md) |
+| 1.2 | Entrada de Dados, atribuicao e teclado| [View](1.basic.md/1.2.md) |
+| 1.3 | Saida de Dados, monitor  | [View](1.basic.md/1.3.md) |
+| 1.4 | Operadores Aritmeticos | [View](1.basic.md/1.4.md) |
+| 1.5 | Operadores Logicos | [View](1.basic.md/1.5.md) |
+| 1.6 | Operadores Relacionais| [View](1.basic.md/1.6.md) |
 > **LISTA DE DESAFIOS**
 > * Funcionalidade + bug
 
