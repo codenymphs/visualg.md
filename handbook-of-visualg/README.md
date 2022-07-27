@@ -20,11 +20,11 @@
 # Intermediary
 | # | Capitulo | Link |
 |:---|:---|:---|
-| 2   | Estruturas de Seleção: se, caso | [View](#) |
-| 2.1 | Estruturas de Repetição: repita, enquanto, para; interrompa | [View](#) |
-| 2.2 | Vetor e Matriz | [View](#) |
-| 2.3 | entrada de dados com arquivo txt | [View](#) |
-| 2.4 | procedimento | [View](#) |
+| 2   | Estruturas de Seleção: se, caso | [View](2.intermediary.md/2.0.md) |
+| 2.1 | Estruturas de Repetição: repita, enquanto, para; interrompa | [View](2.intermediary.md/2.1.md) |
+| 2.2 | Vetor e Matriz | [View](2.intermediary.md/2.2.md) |
+| 2.3 | entrada de dados com arquivo txt | [View](2.intermediary.md/2.3.md) |
+| 2.4 | procedimento | [View](2.intermediary.md/2.4.md) |
 > **LISTA DE DESAFIOS**
 > * Funcionalidade + bug
 
@@ -32,9 +32,9 @@
 # Advanced
 | # | Capitulo | Link |
 |:---|:---|:---|
-| 3   | função | [View](#) |
-| 3.1 | recursividade | [View](#) |
-| 3.2 | debug e performace de algoritmos | [View](#) |
+| 3   | função | [View](3.advanced.md/3.0.md) |
+| 3.1 | recursividade | [View](3.advanced.md/3.1.md) |
+| 3.2 | debug e performace de algoritmos | [View](3.advanced.md/3.2.md) |
 > **LISTA DE DESAFIOS**
 > * Funcionalidade + bug
 
@@ -42,11 +42,11 @@
 # Master
 | # | Capitulo | Link |
 |:---|:---|:---|
-| 4   | Ordenação e Busca em Vetores e Matrizes| [View](#) |
-| 4.1 | pilha | [View](#) |
-| 4.2 | fila | [View](#) |
-| 4.3 | lista | [View](#) |
-| 4.4 | arvore | [View](#) |
+| 4   | Ordenação e Busca em Vetores e Matrizes| [View](4.master.md/4.0.md) |
+| 4.1 | pilha | [View](4.master.md/4.1.md) |
+| 4.2 | fila | [View](4.master.md/4.2.md) |
+| 4.3 | lista | [View](4.master.md/4.3.md) |
+| 4.4 | arvore | [View](4.master.md/4.4.md) |
 > **LISTA DE DESAFIOS**
 > * Funcionalidade + bug
 
