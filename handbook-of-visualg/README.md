@@ -50,4 +50,13 @@
 > **LISTA DE DESAFIOS**
 > * Funcionalidade + bug
 
+## Metodologia da Apostila
+### Bloco de Codigo Funcional
+> A atual apostila utilizara a metodologia diagrama de fluxo e micro codigos para explicacao do comando ou bloco de codigo
+> no final o desenvolvimento de projetos
 
+**Funcionalidade vs Bug**
+ - [X] Objetivo do Programa
+ - [X] Tabela Kaban de Funcionalidades
+ - [X] Diagrama de Fluxo
+ - [X] Algoritmo em Visualg
