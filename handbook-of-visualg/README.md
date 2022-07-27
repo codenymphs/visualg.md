@@ -16,17 +16,17 @@
 | 1.4 | Operadores Aritmeticos | [View](#) |
 | 1.5 | Operadores Logicos | [View](#) |
 | 1.6 | Operadores Relacionais| [View](#) |
-| 1.7 | Estruturas de Seleção: se, caso | [View](#) |
 > **LISTA DE DESAFIOS**
 > * Funcionalidade + bug
 
 # Intermediary
 | # | Capitulo | Link |
 |:---|:---|:---|
-| 2. | Estruturas de Repetição: repita, enquanto, para; interrompa | [View](#) |
-| 2.1 | Vetor e Matriz | [View](#) |
-| 2.2 | entrada de dados com arquivo txt | [View](#) |
-| 2.3 | procedimento | [View](#) |
+| 2   | Estruturas de Seleção: se, caso | [View](#) |
+| 2.1 | Estruturas de Repetição: repita, enquanto, para; interrompa | [View](#) |
+| 2.2 | Vetor e Matriz | [View](#) |
+| 2.3 | entrada de dados com arquivo txt | [View](#) |
+| 2.4 | procedimento | [View](#) |
 > **LISTA DE DESAFIOS**
 > * Funcionalidade + bug
 
@@ -34,9 +34,9 @@
 # Advanced
 | # | Capitulo | Link |
 |:---|:---|:---|
-| 2.5 | função | [View](#) |
-| 2.6 | recursividade | [View](#) |
-| 2.7 | debug e performace de algoritmos | [View](#) |
+| 3.1 | função | [View](#) |
+| 3.2 | recursividade | [View](#) |
+| 3.3 | debug e performace de algoritmos | [View](#) |
 > **LISTA DE DESAFIOS**
 > * Funcionalidade + bug
 
