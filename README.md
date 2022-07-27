@@ -11,6 +11,7 @@ FimAlgoritmo
 ~~~
 
 | # | Guia Basico de Programação Visualg| [View](handbook-of-visualg/README.md)|
+|:---|:---|:---|
 
 # Programs in Command Line Interfaces
 > projects of CLI Apps
