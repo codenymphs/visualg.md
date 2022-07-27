@@ -1,4 +1,4 @@
-Algoritmo "Estrutura Básica do Programa"
+Algoritmo "Estrutura Basica do Programa"
 Inicio
 
 FimAlgoritmo
