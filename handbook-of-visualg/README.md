@@ -7,7 +7,7 @@
 # Basic
 | # | Capitulo | Link |
 |:---|:---|:---|
-| 1   | Estrutura Base | [View](1.basic.md/1.md) |
+| 1   | Estrutura Base | [View](1.basic.md/1.0.md) |
 | 1.1 | Tipos de Dados Simples | [View](1.basic.md/1.1.md) |
 | 1.2 | Entrada de Dados, atribuicao e teclado| [View](1.basic.md/1.2.md) |
 | 1.3 | Saida de Dados, monitor  | [View](1.basic.md/1.3.md) |
@@ -32,9 +32,9 @@
 # Advanced
 | # | Capitulo | Link |
 |:---|:---|:---|
-| 3.1 | função | [View](#) |
-| 3.2 | recursividade | [View](#) |
-| 3.3 | debug e performace de algoritmos | [View](#) |
+| 3   | função | [View](#) |
+| 3.1 | recursividade | [View](#) |
+| 3.2 | debug e performace de algoritmos | [View](#) |
 > **LISTA DE DESAFIOS**
 > * Funcionalidade + bug
 
@@ -50,6 +50,4 @@
 > **LISTA DE DESAFIOS**
 > * Funcionalidade + bug
 
-* Logica Digital
-* Teoria de conjuntos e algebra booleana
-* Analise de problemas de algorirmos com arvores de decisao. Onça bode capim
+
