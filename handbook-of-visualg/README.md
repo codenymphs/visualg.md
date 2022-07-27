@@ -7,41 +7,42 @@
 * Utilize o emulador wine no linux ou macOS
 
 # Basic
-| # | | |
+| # | | Link |
 |:---|:---|:---|
-|**Basico**| 1 | Estrutura Base |
-|      | 1.1 | Tipos de Dados Simples |
-|      | 1.2 | Entrada de Dados, atribuicao e teclado|
-|      | 1.3 | Saida de Dados, monitor  |
-|      | 1.4 | Operadores Aritmeticos |
-|      | 1.5 | Operadores Logicos |
-|      | 1.6 | Operadores Relacionais|
-|      | 1.7 | Estruturas de Seleção: se, caso |
-|      | 1.8 | Estruturas de Repetição: repita, enquanto, para; interrompa |
+| 1   | Estrutura Base | [View](#) |
+| 1.1 | Tipos de Dados Simples | [View](#) |
+| 1.2 | Entrada de Dados, atribuicao e teclado| [View](#) |
+| 1.3 | Saida de Dados, monitor  | [View](#) |
+| 1.4 | Operadores Aritmeticos | [View](#) |
+| 1.5 | Operadores Logicos | [View](#) |
+| 1.6 | Operadores Relacionais| [View](#) |
+| 1.7 | Estruturas de Seleção: se, caso | [View](#) |
+| 1.8 | Estruturas de Repetição: repita, enquanto, para; interrompa | [View](#) |
+
 ### LISTA DE DESAFIOS
 > Objetivo da Funcionalidade + bug e melhorias
 
 # Intermediary
-| # | | |
+| # | | Link |
 |:---|:---|:---|
-|**Intermediario**| 2 | Vetor e Matriz |
-|      | 2.1 | entrada de dados com arquivo txt |
-|      | 2.2 | procedimento |
-|      | 2.3 | função |
-|      | 2.4 | recursividade |
-|      | 2.5 | debug e performace de algoritmos |
+| 2 | Vetor e Matriz | [View](#) |
+| 2.1 | entrada de dados com arquivo txt | [View](#) |
+| 2.2 | procedimento | [View](#) |
+| 2.3 | função | [View](#) |
+| 2.4 | recursividade | [View](#) |
+| 2.5 | debug e performace de algoritmos | [View](#) |
 
 # Advanced
-| # | | |
+| # | | Link |
 |:---|:---|:---|
-|**Avançado**| 3 | ordenação e busca |
-|      | 3.1 | pilha |
-|      | 3.1 | fila |
-|      | 3.1 | lista |
+| 3 | ordenação e busca | [View](#) |
+| 3.1 | pilha | [View](#) |
+| 3.1 | fila | [View](#) |
+| 3.1 | lista | [View](#) |
 
 # Master
-| # | | |
+| # | | Link |
 |:---|:---|:---|
-|**Master**| 4 | Logica Digital |
-|      | 4.1 | teoria de conjuntos e algebra booleana |
-|      | 4.1 | analise de problemas de algorirmos com arvores de decisao. Onça bode capim|
+| 4 | Logica Digital | [View](#) |
+| 4.1 | teoria de conjuntos e algebra booleana | [View](#) |
+| 4.1 | analise de problemas de algorirmos com arvores de decisao. Onça bode capim| [View](#) |
