@@ -10,7 +10,7 @@ FimAlgoritmo
 ~~~
 
 # Programs in Command Line Interfaces
-> projects of CLI Apps
+> Programas de Interface de Linha de Comandos
  
 |#|Projetos de Aplicativos em Visualg|
 | :---|:---|
@@ -25,7 +25,7 @@ FimAlgoritmo
 |  4  | [Sistema de Suporte](#) - lista de tarefas com prioridades (low, normal, high)|
 
 # Challenges to Solve
-> Program Features and Solve Bugs
+> Desafios: Funcionalidades para programar
 
 |#|Funcionalidade | Codigo |
 | :---|:---| :---|
