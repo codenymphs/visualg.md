@@ -1,7 +1,7 @@
 # Handbook of Visualg
-> Criando um playground em Visualg 2.5 
-
-`cat playground.alg`  
+> ### Guia de Sobrevivencia do Programador
+> Abra o [Manual](handbook-of-visualg/README.md)   
+> `cat playground.alg`  
 ~~~ bash
 Algoritmo "Estrutura Básica do Programa"
 Inicio
@@ -9,9 +9,6 @@ Inicio
 FimAlgoritmo
 
 ~~~
-
-| # | Guia Basico de Programação Visualg| [View](handbook-of-visualg/README.md)|
-|:---|:---|:---|
 
 # Programs in Command Line Interfaces
 > projects of CLI Apps
