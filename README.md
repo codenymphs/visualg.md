@@ -1,5 +1,4 @@
 # Handbook of Visualg
-> ### Guia de Sobrevivencia do Programador
 > Abra o [Manual](handbook-of-visualg/README.md)   
 > `cat playground.alg`  
 ~~~ bash
