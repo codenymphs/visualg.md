@@ -1,4 +1,5 @@
-#  :card_index: BootCamp visualg 2.5   
+#  :card_index: Guia de Sobrevivencia do Programador em Pseudo Codigo
+BootCamp visualg 2.5   
 > Agora vamos utilizar o interpretador visualg.  
 > abra o aplicativo `visualg2.5.exe`
 > * Utilize um computador com windows 7 ou maior
