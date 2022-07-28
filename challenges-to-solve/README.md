@@ -22,7 +22,54 @@
           -2
           -3
 ~~~
-e com o plano carteriano criar as seguintes atividades
+e com o plano carteriano criar as Seguintes atividades
 - campo minado
 - entregas no mapa
 - mirar e acertar o pato
+
+## Menu Com Procedimento
+  
+~~~ alg
+Algoritmo "menu de opções"
+
+var
+  sair : logico
+  escolhido : inteiro
+
+  Procedimento TelaInicial
+    Inicio
+      Escreval("Caso [1], Caso [2], Caso [3], Caso [4], Sair [0]")
+  FimProcedimento
+
+  Procedimento ModulosPrograma (escolhido : inteiro)
+    Inicio
+      LimpaTela
+      Escolha (escolhido)
+        Caso 1
+          Escreval("> 1")
+        Caso 2
+          Escreval("> 2")
+        Caso 3
+          Escreval("> 3")
+        Caso 4
+          Escreval("> 4")
+        OutroCaso
+          Escreval("> Nao Sei")
+      FimEscolha
+  FimProcedimento
+
+Inicio
+  Repita
+    TelaInicial
+    Leia(escolhido)
+
+    Se (escolhido = 0) Entao
+      sair <- verdadeiro
+      Escreval("Finalizando o Programa")
+    Senao
+      ModulosPrograma(escolhido)
+    FimSe
+  Ate (sair = verdadeiro)
+
+FimAlgoritmo
+~~~

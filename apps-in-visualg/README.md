@@ -44,3 +44,4 @@ Waifall, xp, scrum
 ### Teste Q&A &nbsp;
 - [X] Teste de Entrada e Saida de Dados &nbsp;
 - [X] Verificação das regras de negocio atendidas &nbsp;
+
