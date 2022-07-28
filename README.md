@@ -1,6 +1,8 @@
 # Handbook of Visualg
-> Abra o [Manual](handbook-of-visualg/README.md)   
-> `cat playground.alg`  
+> Abra o aqui: [Manual](handbook-of-visualg/README.md)   
+
+Estrutura Base de Um Programa Visualg
+`cat playground.alg`  
 ~~~ bash
 Algoritmo "Estrutura Básica do Programa"
 Inicio
