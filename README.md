@@ -1,7 +1,7 @@
-# Handbook of Visualg
-> Criando um playground em Visualg 2.5 
+# Guia De Sobrevivencia do Programador Visualg
+> | Handbook of Visualg | [Manual](handbook-of-visualg/README.md)|
+> |:---|:---|
 
-`cat playground.alg`  
 ~~~ bash
 Algoritmo "Estrutura Básica do Programa"
 Inicio
@@ -10,13 +10,10 @@ FimAlgoritmo
 
 ~~~
 
-| # | Guia Basico de Programação Visualg| [View](handbook-of-visualg/README.md)|
-|:---|:---|:---|
-
-# Programs in Command Line Interfaces
-> projects of CLI Apps
+# Projetos de Aplicativos em Visualg
+> Programs in Command Line Interfaces
  
-|#|Software Architecture Design|
+|#| Programas com Interface de Linha de Comandos|
 | :---|:---|
 |  1  | [Meu Peso Ideal](#)|
 |  1  | [Meu Curso Ideal](#)|
@@ -28,10 +25,10 @@ FimAlgoritmo
 |  4  | [Sistema de Gestao de Clientes](#) - lista de clientes, ordenar com categorias e prioridades|
 |  4  | [Sistema de Suporte](#) - lista de tarefas com prioridades (low, normal, high)|
 
-# Challenges to Solve
-> Program Features and Solve Bugs
+# Desafios para Resolver:
+> Challenges to Solve
 
-|#|Funcionalidade | Codigo |
+|#|Funcionalidade para Programar | Codigo |
 | :---|:---| :---|
 |  1  | - | - |
 |  1  | - | - |
