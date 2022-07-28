@@ -3,7 +3,7 @@
 > |:---|:---|
 
 ~~~ bash
-Algoritmo "Estrutura Básica do Programa"
+Algoritmo "Programa Base"
 Inicio
 
 FimAlgoritmo
