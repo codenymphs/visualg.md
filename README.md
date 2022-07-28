@@ -12,7 +12,7 @@ FimAlgoritmo
 # Programs in Command Line Interfaces
 > projects of CLI Apps
  
-|#|Software Architecture Design|
+|#|Projetos de Aplicativos em Visualg|
 | :---|:---|
 |  1  | [Meu Peso Ideal](#)|
 |  1  | [Meu Curso Ideal](#)|
