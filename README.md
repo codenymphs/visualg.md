@@ -17,12 +17,12 @@ Algoritmo "Programa Base"
 FimAlgoritmo
 ~~~
 # Guia De Sobrevivencia Visualg
-| Nivel | Capitulos|
-|:---|:---|
-| 1 | [Basico](1.manual-basico.md/README.md)|
-| 2 | [Intermediario](2.manual-intermediario.md/README.md)|
-| 3 | [Avançado](3.manual-avancado.md/README.md)|
-| 4 | [Mestre](4.manual-mestre.md/README.md)|
+| Nivel | Capitulos| Descrição |
+|:---|:---|:---|
+| 1 | [Basico](1.manual-basico.md/README.md)| Primeiros Passos em Programação|
+| 2 | [Intermediario](2.manual-intermediario.md/README.md)| Controle de Fluxo e Operando com os Dados|
+| 3 | [Avançado](3.manual-avancado.md/README.md)| Programas Com Funcões e tecnicas de debugging |
+| 4 | [Mestre](4.manual-mestre.md/README.md)| Manipulando Estruturas de Dados Complexos |
 
 # Projetos de Aplicativos em Visualg
 > Programs in Command Line Interfaces
