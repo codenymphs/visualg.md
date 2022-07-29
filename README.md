@@ -24,8 +24,7 @@ Algoritmo "Programa Base"
 FimAlgoritmo
 ~~~
 
-# Desfrute de todo o conteudo do manual
-
+### Desfrute de todo o conteudo do manual
 **1. Pratique o Manual**  
 **2. Resolva os Desafios**   
 **3. Construa os Projetos**   
