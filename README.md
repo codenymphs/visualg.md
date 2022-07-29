@@ -26,9 +26,9 @@ FimAlgoritmo
 
 # Desfrute de todo o conteudo do manual
 
-**1. Pratique o `Manual`**  
-**2. Resolva os `Desafios`**   
-**3. Construa os `Projetos`**   
+**1. Pratique o Manual**  
+**2. Resolva os Desafios**   
+**3. Construa os Projetos**   
 
 # Requisitos do Interpretador `Visualg2.5.exe`
 * Utilize um computador com windows 7 ou maior
