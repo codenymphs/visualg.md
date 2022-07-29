@@ -1,6 +1,6 @@
-Algoritmo "Estrutura Basica do Programa"
-    Var
+Algoritmo "Programa Base"
     
     Inicio
+        Escreval("Ola, Mundo!")
 
 FimAlgoritmo
