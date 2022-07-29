@@ -25,9 +25,9 @@ FimAlgoritmo
 ~~~
 
 > **Desfrute de todo o conteudo do manual**
-> 1. Pratique o Manual**  
-> 2. Resolva os Desafios**   
-> 3. Construa os Projetos**   
+> 1. Pratique o Manual  
+> 2. Resolva os Desafios   
+> 3. Construa os Projetos   
 
 # Requisitos do Interpretador Visualg
 * Utilize um computador com windows 7 ou maior
