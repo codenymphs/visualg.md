@@ -19,14 +19,9 @@ BootCamp visualg 2.5
  
 | Nivel | Aplicativo | Descricão | 
 | :---|:---|:---|
-|  1  | [Meu Peso Ideal](#)| Calculo de IMC |
-|  1  | [Meu Curso Ideal](#)| Notas do Curso |
-|  2  | [Banco Hirão](#)| conta Corrente|
-|  3  | [Companhia Aerea Grifos](#)| Compra de Passagens |
-|  3  | [Cinema Utopia](#)| Reseva de Ingressos |
-|  4  | [Restaurante Subway](#) | filas de pedidos |
-|  4  | [Sistema de Contas a Pagar](#) | pilha de contas |
-|  4  | [Sistema de Gestao de Clientes](#) | lista de clientes, ordenar com categorias e prioridades |
+|  1  | [Restaurante Subway](#) | filas de pedidos |
+|  2  | [Sistema de Contas a Pagar](#) | pilha de contas |
+|  3  | [Sistema de Gestao de Clientes](#) | lista de clientes, ordenar com categorias e prioridades |
 |  4  | [Sistema de Suporte](#) | lista de tarefas com prioridades (low, normal, high) |
 
 
@@ -36,14 +31,3 @@ BootCamp visualg 2.5
 |#|Funcionalidade para Programar | Codigo |
 | :---|:---| :---|
 |  1  | - | - |
-|  1  | - | - |
-|  1  | - | - |
-|  1  | - | - |
-|  2  | - | - |
-|  2  | - | - |
-|  2  | - | - |
-|  3  | - | - |
-|  3  | - | - |
-|  4  | - | - |
-|  4  | - | - |
-|  4  | - | - |
