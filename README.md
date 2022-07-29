@@ -1,5 +1,5 @@
 # Começe a programar agora!  
-> Abra o programa `visualg2.5.exe`. 
+> Abra o interpretador `visualg2.5.exe`. 
 > _e utilize o codigo `playground.alg` para criar seu primeiro programa.alg_  
 
 ~~~ alg
