@@ -5,7 +5,7 @@ BootCamp visualg 2.5
 > * Utilize um computador com windows 7 ou maior
 > * Utilize o emulador wine no linux ou macOS
 
-# Master
+# Mestre
 | # | Capitulo | Link |
 |:---|:---|:---|
 | 4   | Ordenação e Busca em Vetores e Matrizes| [View](4.0.md) |
