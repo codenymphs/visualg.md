@@ -3,9 +3,7 @@
 
 # :card_index: Guia de Sobrevivencia do Programador em Visualg
   
-### Utilize o programa base: `playground.alg` para desenvolver seus aplicativos.     
-
-`juniobash@github ~ % cat playground.alg`   
+Utilize o codigo `playground.alg` para criar seu primeiro programa.alg        
 ~~~ alg
 Algoritmo "Programa Base"
     
@@ -15,15 +13,14 @@ Algoritmo "Programa Base"
 FimAlgoritmo
 ~~~
 
-## Manual Visualg
-| 1 | [Basico](manual-visualg/1.basico.md/README.md) |
-|:---|:---|
-| 2 | [Intermediario](manual-visualg/2.intermediario.md/README.md) |
-| 3 | [Avançado](manual-visualg/3.avancado.md/README.md) |
-| 4 | [Mestre](manual-visualg/4.mestre.md/README.md) |
+# Manual Visualg
+## [Basico](manual-visualg/1.basico.md/README.md)
+## [Intermediario](manual-visualg/2.intermediario.md/README.md)
+## [Avançado](manual-visualg/3.avancado.md/README.md)
+## [Mestre](manual-visualg/4.mestre.md/README.md)
 
 
-## Começe a programar agora!   
+# Começe a programar agora!   
 Agora vamos utilizar o interpretador visualg:  
 > 1. Abra o programa `visualg2.5.exe`. 
 > 2. Leia o  `manual-visualg` e pratique.
