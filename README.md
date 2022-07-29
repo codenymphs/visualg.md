@@ -26,7 +26,7 @@ FimAlgoritmo
 
 # Desfrute de todo o conteudo do manual
 
-### 1. Pratique o `manual-visualg`:
+### 1. Pratique o `manual`:
 #### [Manual Basico](manual-visualg/1.basico.md/README.md)
 #### [Manual Intermediario](manual-visualg/2.intermediario.md/README.md)
 #### [Manual Avançado](manual-visualg/3.avancado.md/README.md)
