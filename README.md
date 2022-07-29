@@ -1,59 +1,33 @@
-# Começe a programar com Visualg!   
 
-> 1. Abra o programa `visualg2.5.exe`. 
-> 2. Leia o  [Manual](#guia-de-sobrevivencia-visualg)
-> 3. Pratique o quanto desejar.
-> 4. Resolva os Desafios
-> 5. Contrua os Projetos 
-
-
-Utilize o programa base: `playground.alg` para desenvolver seus aplicativos.   
-
-`juniobash@github ~ % cat playground.alg`   
-
-~~~ alg
-Algoritmo "Programa Base"
-    Inicio
-        Escreval("Ola, Mundo!")
-FimAlgoritmo
-~~~
 
 
 # :card_index: Guia de Sobrevivencia do Programador em Pseudo Codigo
-## 1. [Basico](1.manual-basico.md/README.md)
-## 2. [Intermediario](2.manual-intermediario.md/README.md)
-## 3. [Avançado](3.manual-avancado.md/README.md)
-## 4. [Mestre](4.manual-mestre.md/README.md)
 
+|||
+|:---|:---|
+| 1 | <h2>[Basico](manual-visualg/1.basico.md/README.md) </h2> |
+| 2 | <h2> [Intermediario](manual-visualg/2.intermediario.md/README.md) </h2>|
+| 3 | <h2> [Avançado](manual-visualg/3.avancado.md/README.md) </h2>|
+| 4 | <h2>[Mestre](manual-visualg/4.mestre.md/README.md) </h2> |
 
-# Projetos de Aplicativos em Visualg
- 
-| Nivel | Aplicativo | Descricão | 
-| :---|:---|:---|
-|  1  | [Meu Peso Ideal](#)| Calculo de IMC |
-|  1  | [Meu Curso Ideal](#)| Notas do Curso |
-|  2  | [Banco Hirão](#)| conta Corrente|
-|  3  | [Companhia Aerea Grifos](#)| Compra de Passagens |
-|  3  | [Cinema Utopia](#)| Reseva de Ingressos |
-|  4  | [Restaurante Subway](#) | filas de pedidos |
-|  4  | [Sistema de Contas a Pagar](#) | pilha de contas |
-|  4  | [Sistema de Gestao de Clientes](#) | lista de clientes, ordenar com categorias e prioridades |
-|  4  | [Sistema de Suporte](#) | lista de tarefas com prioridades (low, normal, high) |
+# Começe a programar com Visualg!   
+> ## BootCamp visualg 2.5   
+> Agora vamos utilizar o interpretador visualg: 
+> 1. Abra o programa `visualg2.5.exe`. 
+> 2. Leia o  `manual-visualg` e pratique.
+> 4. Resolva os Desafios: [Basico](manual-visualg/1.basico.md/README.md#desafios-para-resolver), [Intermediario](manual-visualg/2.intermediario.md/README.md#desafios-para-resolver), [Avançado](manual-visualg/3.avancado.md/README.md#desafios-para-resolver), [Mestre](manual-visualg/4.mestre.md/README.md#desafios-para-resolver)
+> 5. Contrua os Projetos: [Basico](manual-visualg/1.basico.md/README.md#projetos-de-aplicativos-em-visualg), [Intermediario](manual-visualg/2.intermediario.md/README.md#projetos-de-aplicativos-em-visualg), [Avançado](manual-visualg/3.avancado.md/README.md#projetos-de-aplicativos-em-visualg), [Mestre](manual-visualg/4.mestre.md/README.md#projetos-de-aplicativos-em-visualg)
+> * Utilize um computador com windows 7 ou maior
+> * Utilize o emulador wine no linux ou macOS
 
-# Desafios para Resolver:
-> Challenges to Solve
+### Utilize o programa base: `playground.alg` para desenvolver seus aplicativos.     
 
-|#|Funcionalidade para Programar | Codigo |
-| :---|:---| :---|
-|  1  | - | - |
-|  1  | - | - |
-|  1  | - | - |
-|  1  | - | - |
-|  2  | - | - |
-|  2  | - | - |
-|  2  | - | - |
-|  3  | - | - |
-|  3  | - | - |
-|  4  | - | - |
-|  4  | - | - |
-|  4  | - | - |
+`juniobash@github ~ % cat playground.alg`   
+~~~ alg
+Algoritmo "Programa Base"
+    
+    Inicio
+        Escreval("Ola, Mundo!")
+
+FimAlgoritmo
+~~~
