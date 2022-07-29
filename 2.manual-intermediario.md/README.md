@@ -8,10 +8,10 @@ BootCamp visualg 2.5
 # Intermediary
 | # | Capitulo | Link |
 |:---|:---|:---|
-| 2   | Estruturas de Seleção: se, caso | [View](2.intermediary.md/2.0.md) |
-| 2.1 | Estruturas de Repetição: repita, enquanto, para; interrompa | [View](2.intermediary.md/2.1.md) |
-| 2.2 | Vetor e Matriz | [View](2.intermediary.md/2.2.md) |
-| 2.3 | procedimento | [View](2.intermediary.md/2.3.md) |
+| 2   | Estruturas de Seleção: se, caso | [View](2.0.md) |
+| 2.1 | Estruturas de Repetição: repita, enquanto, para; interrompa | [View](2.1.md) |
+| 2.2 | Vetor e Matriz | [View](2.2.md) |
+| 2.3 | procedimento | [View](2.3.md) |
 # Desafios para Resolver:
 > Challenges to Solve
 
