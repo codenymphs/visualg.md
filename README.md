@@ -25,11 +25,14 @@ FimAlgoritmo
 
 ## Desfrute de todo o conteudo do manual
 
->1. Leia e pratique o `manual-visualg`.
->   - [ ] [Manual Basico](manual-visualg/1.basico.md/README.md)
->   - [ ] [Manual Intermediario](manual-visualg/2.intermediario.md/README.md)
->   - [ ] [Manual Avançado](manual-visualg/3.avancado.md/README.md)
->   - [ ] [Manual Mestre](manual-visualg/4.mestre.md/README.md)
+### Leia e pratique o `manual-visualg`.
+|1|[Manual Basico](manual-visualg/1.basico.md/README.md)|
+|:---|:---|
+|2|[Manual Intermediario](manual-visualg/2.intermediario.md/README.md)|
+|3|[Manual Avançado](manual-visualg/3.avancado.md/README.md)|
+|4|[Manual Mestre](manual-visualg/4.mestre.md/README.md)|
+
+
 >2. Resolva os Desafios: 
 >   - [ ] [Desafio Basico](manual-visualg/1.basico.md/desafios/README.md)  
 >   - [ ] [Desafio Intermediario](manual-visualg/2.intermediario.md/desafios/README.md)  
