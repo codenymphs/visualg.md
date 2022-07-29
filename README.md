@@ -1,4 +1,5 @@
-# Começe a programar agora!
+# Começe a programar com Visualg!   
+
 > 1. Abra o programa `visualg2.5.exe`. 
 > 2. Leia o  [Manual](#guia-de-sobrevivencia-visualg)
 > 3. Pratique o quanto desejar.
@@ -16,6 +17,8 @@ Algoritmo "Programa Base"
         Escreval("Ola, Mundo!")
 FimAlgoritmo
 ~~~
+
+
 # Guia De Sobrevivencia Visualg
 | Nivel | Capitulos| Descrição |
 |:---|:---|:---|
@@ -24,20 +27,20 @@ FimAlgoritmo
 | 3 | [Avançado](3.manual-avancado.md/README.md)| Programas Com Funcões e tecnicas de debugging |
 | 4 | [Mestre](4.manual-mestre.md/README.md)| Manipulando Estruturas de Dados Complexos |
 
+
 # Projetos de Aplicativos em Visualg
-> Programs in Command Line Interfaces
  
-|Aplicativo | Descrição | Codigo |
+| Nivel | Aplicativo | Descricão | 
 | :---|:---|:---|
-|  1  | [Meu Peso Ideal](#)| |
-|  1  | [Meu Curso Ideal](#)| |
-|  2  | [Banco Hirão](#)| |
-|  3  | [Companhia Aerea Grifos](#)| |
-|  3  | [Cinema Utopia](#)| |
-|  4  | [Restaurante Subway](#) - filas de pedidos| |
-|  4  | [Sistema de Contas a Pagar](#) - pilha de contas| |
-|  4  | [Sistema de Gestao de Clientes](#) - lista de clientes, ordenar com categorias e prioridades| |
-|  4  | [Sistema de Suporte](#) - lista de tarefas com prioridades (low, normal, high)| |
+|  1  | [Meu Peso Ideal](#)| Calculo de IMC |
+|  1  | [Meu Curso Ideal](#)| Notas do Curso |
+|  2  | [Banco Hirão](#)| conta Corrente|
+|  3  | [Companhia Aerea Grifos](#)| Compra de Passagens |
+|  3  | [Cinema Utopia](#)| Reseva de Ingressos |
+|  4  | [Restaurante Subway](#) | filas de pedidos |
+|  4  | [Sistema de Contas a Pagar](#) | pilha de contas |
+|  4  | [Sistema de Gestao de Clientes](#) | lista de clientes, ordenar com categorias e prioridades |
+|  4  | [Sistema de Suporte](#) | lista de tarefas com prioridades (low, normal, high) |
 
 # Desafios para Resolver:
 > Challenges to Solve
