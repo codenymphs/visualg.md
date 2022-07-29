@@ -19,11 +19,11 @@ FimAlgoritmo
 ~~~
 
 
-# Guia De Sobrevivencia Visualg
-### 1.[Basico](1.manual-basico.md/README.md)
-### 2.[Intermediario](2.manual-intermediario.md/README.md)
-### 3.[Avançado](3.manual-avancado.md/README.md)
-### 4.[Mestre](4.manual-mestre.md/README.md)
+# :card_index: Guia de Sobrevivencia do Programador em Pseudo Codigo
+## 1. [Basico](1.manual-basico.md/README.md)
+## 2. [Intermediario](2.manual-intermediario.md/README.md)
+## 3. [Avançado](3.manual-avancado.md/README.md)
+## 4. [Mestre](4.manual-mestre.md/README.md)
 
 
 # Projetos de Aplicativos em Visualg
