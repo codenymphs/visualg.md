@@ -5,12 +5,11 @@ BootCamp visualg 2.5
 > * Utilize um computador com windows 7 ou maior
 > * Utilize o emulador wine no linux ou macOS
 
-# Master
+# Advanced
 | # | Capitulo | Link |
 |:---|:---|:---|
-| 4   | Ordenação e Busca em Vetores e Matrizes| [View](4.master.md/4.0.md) |
-| 4.1 | pilha | [View](4.master.md/4.1.md) |
-| 4.2 | fila | [View](4.master.md/4.2.md) |
-| 4.3 | lista | [View](4.master.md/4.3.md) |
-| 4.4 | arvore | [View](4.master.md/4.4.md) |
-
+| 3   | função | [View](3.advanced.md/3.0.md) |
+| 3.1 | recursividade | [View](3.advanced.md/3.1.md) |
+| 3.2 | debug e performace de algoritmos | [View](3.advanced.md/3.2.md) |
+> **LISTA DE DESAFIOS**
+> * Funcionalidade + bug

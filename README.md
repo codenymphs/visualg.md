@@ -1,7 +1,7 @@
 # Guia De Sobrevivencia Visualg
 > ## Começe a programar agora!
 > 1. Abra o programa `visualg2.5.exe`. 
-> 2. Leia o  [Manual](handbook-of-visualg/README.md)
+> 2. Leia o  [Manual](#)
 > 3. Pratique o quanto desejar.
 > 4. Resolva os Desafios
 > 5. Contrua os Projetos 
@@ -19,10 +19,10 @@ FimAlgoritmo
 
 | Basico | Guia de Sobrevivencia em Visualg|
 |:---|:---|
-| 1 | [Basico](handbook-of-visualg/README.md)|
-| 2 | [Intermediario](handbook-of-visualg/README.md)|
-| 3 | [Avançado](handbook-of-visualg/README.md)|
-| 4 | [Mestre](handbook-of-visualg/README.md)|
+| 1 | [Basico](1.manual-basico.md/README.md)|
+| 2 | [Intermediario](2.manual-intermediario.md/README.md)|
+| 3 | [Avançado](3.manual-avancado.md/README.md)|
+| 4 | [Mestre](4.manual-mestre.md/README.md)|
 
 # Projetos de Aplicativos em Visualg
 > Programs in Command Line Interfaces
