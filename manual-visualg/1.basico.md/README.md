@@ -1,4 +1,4 @@
-#  :card_index: Guia de Sobrevivencia do Programador em Pseudo Codigo
+#  :card_index: Guia de Sobrevivencia do Programador
 BootCamp visualg 2.5   
 
 # Basico
