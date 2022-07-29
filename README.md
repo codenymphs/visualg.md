@@ -24,21 +24,22 @@ FimAlgoritmo
 ~~~
 
 ## Desfrute de todo o conteudo do manual
+
 >1. Leia e pratique o `manual-visualg`.
 >   - [ ] [Manual Basico](manual-visualg/1.basico.md/README.md)
 >   - [ ] [Manual Intermediario](manual-visualg/2.intermediario.md/README.md)
 >   - [ ] [Manual Avançado](manual-visualg/3.avancado.md/README.md)
 >   - [ ] [Manual Mestre](manual-visualg/4.mestre.md/README.md)
 >2. Resolva os Desafios: 
->   - [ ] [Desafio Basico](manual-visualg/1.basico.md/README.md#desafios-para-resolver)  
->   - [ ] [Desafio Intermediario](manual-visualg/2.intermediario.md/README.md#desafios-para-resolver)  
->   - [ ] [Desafio Avançado](manual-visualg/3.avancado.md/README.md#desafios-para-resolver)   
->   - [ ] [Desafio Mestre](manual-visualg/4.mestre.md/README.md#desafios-para-resolver)    
+>   - [ ] [Desafio Basico](manual-visualg/1.basico.md/desafios/README.md)  
+>   - [ ] [Desafio Intermediario](manual-visualg/2.intermediario.md/desafios/README.md)  
+>   - [ ] [Desafio Avançado](manual-visualg/3.avancado.md/desafios/README.md)   
+>   - [ ] [Desafio Mestre](manual-visualg/4.mestre.md/desafios/README.md)    
 >3. Contrua os Projetos: 
->   - [ ] [Projeto Basico](manual-visualg/1.basico.md/README.md#projetos-de-aplicativos-em-visualg)  
->   - [ ] [Projeto Intermediario](manual-visualg/2.intermediario.md/README.md#projetos-de-aplicativos-em-visualg)  
->   - [ ] [Projeto Avançado](manual-visualg/3.avancado.md/README.md#projetos-de-aplicativos-em-visualg)  
->   - [ ] [Projeto Mestre](manual-visualg/4.mestre.md/README.md#projetos-de-aplicativos-em-visualg)    
+>   - [ ] [Projeto Basico](manual-visualg/1.basico.md/projetos/README.md)  
+>   - [ ] [Projeto Intermediario](manual-visualg/2.intermediario.md/projetos/README.md)  
+>   - [ ] [Projeto Avançado](manual-visualg/3.avancado.md/projetos/README.md)  
+>   - [ ] [Projeto Mestre](manual-visualg/4.mestre.md/projetos/README.md)    
 
 ## Requisitos do Interpretador `Visualg2.5.exe`
 * Utilize um computador com windows 7 ou maior
