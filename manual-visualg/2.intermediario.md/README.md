@@ -1,4 +1,4 @@
-#  :card_index: Guia de Sobrevivencia do Programador em Pseudo Codigo
+#  :card_index: Guia de Sobrevivencia do Programador
 BootCamp visualg 2.5   
 > Agora vamos utilizar o interpretador visualg.  
 > abra o aplicativo `visualg2.5.exe`
