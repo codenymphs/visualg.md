@@ -1,4 +1,33 @@
-# Desafios Para Resolver
+# Desafios para Resolver:
+> Challenges to Solve
+
+### Bloco de Codigo Funcional
+> A atual apostila utilizara a metodologia diagrama de fluxo e micro codigos para explicacao do comando ou bloco de codigo
+
+**Funcionalidade vs Bug**
+ - [X] Objetivo do desafio
+ - [X] Tabela Kaban de Funcionalidades
+ - [X] Diagrama de Fluxo
+ - [X] Algoritmo em Visualg
+
+|#|Funcionalidade para Programar | Codigo |
+| :---|:---| :---|
+|  1  | - | - |
+|  1  | - | - |
+|  1  | - | - |
+|  1  | - | - |
+|  2  | - | - |
+|  2  | - | - |
+|  2  | - | - |
+|  3  | - | - |
+|  3  | - | - |
+|  4  | - | - |
+|  4  | - | - |
+|  4  | - | - |
+
+
+
+
 
 ## Criar Matriz de Xadrez ou Dama 8x8
 ~~~

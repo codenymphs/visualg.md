@@ -1,4 +1,4 @@
 Algoritmo "Estrutura Basica do Programa"
-Inicio
-
+    Var
+    Inicio
 FimAlgoritmo

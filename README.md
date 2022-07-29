@@ -1,18 +1,28 @@
 # Guia De Sobrevivencia Visualg
-## Começe a programar agora!
-Abra o programa `visualg2.5.exe` que se encontra na pasta deste repositorio. Leia o  [Manual](handbook-of-visualg/README.md) e pratique o quanto desejar.   
-> Utilize o programa base `playground.alg` para desenvolver seus aplicativos.
+> ## Começe a programar agora!
+> 1. Abra o programa `visualg2.5.exe`. 
+> 2. Leia o  [Manual](handbook-of-visualg/README.md)
+> 3. Pratique o quanto desejar.
+> 4. Resolva os Desafios
+> 5. Contrua os Projetos 
+>
+Utilize o programa base: `playground.alg` para desenvolver seus aplicativos.   
 
-~~~ bash
+`juniobash@github ~ % cat playground.alg`   
+
+~~~ alg
 Algoritmo "Programa Base"
-Inicio
-
+    Inicio
+        Escreval("Ola, Mundo!")
 FimAlgoritmo
-
 ~~~
 
-| Handbook of Visualg | [Manual do Visualg](handbook-of-visualg/README.md)|
+| Basico | Guia de Sobrevivencia em Visualg|
 |:---|:---|
+| 1 | [Basico](handbook-of-visualg/README.md)|
+| 2 | [Intermediario](handbook-of-visualg/README.md)|
+| 3 | [Avançado](handbook-of-visualg/README.md)|
+| 4 | [Mestre](handbook-of-visualg/README.md)|
 
 # Projetos de Aplicativos em Visualg
 > Programs in Command Line Interfaces
