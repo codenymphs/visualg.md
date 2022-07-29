@@ -15,8 +15,8 @@ FimAlgoritmo
 > 1. Pratique o Manual  
 > 2. Resolva os Desafios   
 > 3. Construa os Projetos   
-# :card_index: Guia de Sobrevivencia do Programador em <br> Pseudo Codigo
-> Bootcamp Visualg 2.5
+# :card_index: Guia de Sobrevivencia do Programador
+Bootcamp Visualg 2.5
 
 ## [Basico](manual-visualg/1.basico.md/README.md)
 Construindo um programa basico de dados simples.
