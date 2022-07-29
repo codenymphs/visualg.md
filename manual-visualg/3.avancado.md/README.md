@@ -5,7 +5,7 @@ BootCamp visualg 2.5
 > * Utilize um computador com windows 7 ou maior
 > * Utilize o emulador wine no linux ou macOS
 
-# Advanced
+# Avançado
 | # | Capitulo | Link |
 |:---|:---|:---|
 | 3   | função | [View](3.0.md) |
@@ -16,16 +16,7 @@ BootCamp visualg 2.5
  
 | Nivel | Aplicativo | Descricão | 
 | :---|:---|:---|
-|  1  | [Meu Peso Ideal](#)| Calculo de IMC |
-|  1  | [Meu Curso Ideal](#)| Notas do Curso |
-|  2  | [Banco Hirão](#)| conta Corrente|
-|  3  | [Companhia Aerea Grifos](#)| Compra de Passagens |
-|  3  | [Cinema Utopia](#)| Reseva de Ingressos |
-|  4  | [Restaurante Subway](#) | filas de pedidos |
-|  4  | [Sistema de Contas a Pagar](#) | pilha de contas |
-|  4  | [Sistema de Gestao de Clientes](#) | lista de clientes, ordenar com categorias e prioridades |
-|  4  | [Sistema de Suporte](#) | lista de tarefas com prioridades (low, normal, high) |
-
+|  1  | [Cinema Utopia](#)| Reseva de Ingressos |
 
 # Desafios para Resolver:
 > Challenges to Solve
@@ -33,14 +24,3 @@ BootCamp visualg 2.5
 |#|Funcionalidade para Programar | Codigo |
 | :---|:---| :---|
 |  1  | - | - |
-|  1  | - | - |
-|  1  | - | - |
-|  1  | - | - |
-|  2  | - | - |
-|  2  | - | - |
-|  2  | - | - |
-|  3  | - | - |
-|  3  | - | - |
-|  4  | - | - |
-|  4  | - | - |
-|  4  | - | - |
