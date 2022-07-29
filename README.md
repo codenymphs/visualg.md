@@ -1,11 +1,11 @@
-# Guia De Sobrevivencia Visualg
-> ## Começe a programar agora!
+# Começe a programar agora!
 > 1. Abra o programa `visualg2.5.exe`. 
-> 2. Leia o  [Manual](#)
+> 2. Leia o  [Manual](#guia-de-sobrevivencia-visualg)
 > 3. Pratique o quanto desejar.
 > 4. Resolva os Desafios
 > 5. Contrua os Projetos 
->
+
+
 Utilize o programa base: `playground.alg` para desenvolver seus aplicativos.   
 
 `juniobash@github ~ % cat playground.alg`   
@@ -16,8 +16,8 @@ Algoritmo "Programa Base"
         Escreval("Ola, Mundo!")
 FimAlgoritmo
 ~~~
-
-| Basico | Guia de Sobrevivencia em Visualg|
+# Guia De Sobrevivencia Visualg
+| Nivel | Capitulos|
 |:---|:---|
 | 1 | [Basico](1.manual-basico.md/README.md)|
 | 2 | [Intermediario](2.manual-intermediario.md/README.md)|
