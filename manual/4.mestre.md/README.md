@@ -1,11 +1,8 @@
-#  :card_index: Guia de Sobrevivencia do Programador
-BootCamp visualg 2.5   
-> Agora vamos utilizar o interpretador visualg.  
-> abra o aplicativo `visualg2.5.exe`
-> * Utilize um computador com windows 7 ou maior
-> * Utilize o emulador wine no linux ou macOS
+#  :card_index: Bootcamp Mestre Visualg 2.5   
+> Abra o interpretador `visualg2.5.exe`. 
+* Utilize o _Windows 7_ ou _Superior_
+* Utilize o emulador **Wine** no _Linux_ ou _macOS_
 
-# Mestre
 | # | Capitulo | Link |
 |:---|:---|:---|
 | 4   | Ordenação e Busca em Vetores e Matrizes| [View](4.0.md) |

@@ -15,16 +15,17 @@ FimAlgoritmo
 > 1. Pratique o Manual  
 > 2. Resolva os Desafios   
 > 3. Construa os Projetos   
+
 # :card_index: Guia de Sobrevivencia do Programador
 Bootcamp Visualg 2.5
 
-## [Basico](manual-visualg/1.basico.md/README.md)
+## [Basico](manual/1.basico.md/README.md)
 Construindo um programa basico de dados simples.
-## [Intermediario](manual-visualg/2.intermediario.md/README.md)
+## [Intermediario](manual/2.intermediario.md/README.md)
 Controle e manipulacão de dados simples e compostos
-## [Avançado](manual-visualg/3.avancado.md/README.md)
+## [Avançado](manual/3.avancado.md/README.md)
 Constuindo programas completos e com facilidade.
-## [Mestre](manual-visualg/4.mestre.md/README.md)
+## [Mestre](manual/4.mestre.md/README.md)
 Construindo e manipulando tipos de dados complexos.   
 
 # Requisitos
