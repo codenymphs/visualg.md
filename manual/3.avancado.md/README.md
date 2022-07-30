@@ -1,8 +1,8 @@
 #  :card_index: Bootcamp Avançado Visualg 2.5   
 Guia de Sobrevivencia do Programador
 > Abra o interpretador `visualg2.5.exe`. 
-* Utilize o _Windows 7_ ou _Superior_
-* Utilize o emulador **Wine** no _Linux_ ou _macOS_
+> * Utilize o _Windows 7_ ou _Superior_
+> * Utilize o emulador **Wine** no _Linux_ ou _macOS_
 
 | # | Capitulo | Link |
 |:---|:---|:---|
